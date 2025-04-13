@@ -1,4 +1,9 @@
 - 👋 Hi, I’m Felipe Cunha
+- Desenvolvedor backend]
+- C# .NET
+
+
+
 
 
 <!---
