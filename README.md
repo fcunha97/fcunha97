@@ -1,6 +1,9 @@
 - 👋 Hi, I’m Felipe Cunha
-- Desenvolvedor backend
-- C# .NET
+- Backend Developer 
+- C#
+- .NET
+- ASP.NET CORE
+- SQL
 
 
 
